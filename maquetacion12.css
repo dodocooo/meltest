@@ -1,0 +1,13 @@
+*{
+	margin: 15;
+	padding: 0;
+}
+#contenedor {
+	 width: 440px;
+	 height: 345px;
+	 background: #FFFFFF;
+	 margin: 5em auto;
+	 padding: 1em;
+	 float: left;
+	 border-radius: 1em;
+}
